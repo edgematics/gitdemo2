@@ -44,6 +44,7 @@
       <relatedItems xmi:id="_LswRiuixEeaJhPyDFqNOsQ" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_HxzocOi9EeaST-9V1OejLw" id="_8bp6cOi6EeaST-9V1OejLw" version="Latest" type="property"/>
       <relatedItems xmi:id="_Hxzocei9EeaST-9V1OejLw" id="_8bbQ8Oi6EeaST-9V1OejLw" version="Latest" type="property"/>
+      <relatedItems xmi:id="_qiBNIOi_EeaST-9V1OejLw" id="_Iao4IOi_EeaST-9V1OejLw - dummy_customers" version="Latest" type="schema"/>
     </ItemsRelations>
     <migrationTask xmi:id="_9lWX8OhuEeaJ4srhUX3kAA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_9lWX8ehuEeaJ4srhUX3kAA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
