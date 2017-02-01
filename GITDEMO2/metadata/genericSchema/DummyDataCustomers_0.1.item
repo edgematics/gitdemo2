@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_Ia2TgOi_EeaST-9V1OejLw" name="repository.metadataGenericSchema" dataPackage="_Ia4IsOi_EeaST-9V1OejLw"/>
+  <TalendMetadata:GenericPackage xmi:id="_Ia4IsOi_EeaST-9V1OejLw" name="repository.metadataGenericSchema" dataManager="_Ia2TgOi_EeaST-9V1OejLw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Ia6k8Oi_EeaST-9V1OejLw" id="_2_pA4Oi-EeaST-9V1OejLw" label="dummy_customers">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ia7MAOi_EeaST-9V1OejLw" name="id" label="id" length="10" talendType="id_String" key="true"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ia7MAei_EeaST-9V1OejLw" name="Name" label="Name" length="30" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ia7MAui_EeaST-9V1OejLw" name="State" label="State" length="30" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
